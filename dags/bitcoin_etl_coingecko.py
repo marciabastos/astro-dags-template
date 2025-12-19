@@ -8,7 +8,7 @@ import requests
 import pandas as pd
 
 DEFAULT_ARGS = {
-    "owner": "Alex Lopes",
+    "owner": "Marcia",
     "retries": 3,
     "retry_delay": timedelta(minutes=5),
 }
